@@ -1,0 +1,7 @@
+Portfolio Summary:
+1. Stock: AA, Close Price: $27.40, Expected Return: 16.06%, Amount Invested: $25,000, Shares: 912, Allocation: 5%
+2. Stock: AAOI, Close Price: $XX.XX, Expected Return: 13.XX%, Amount Invested: $25,000, Shares: XXX, Allocation: 5%
+3. Stock: AAP, Close Price: $XX.XX, Expected Return: 13.XX%, Amount Invested: $25,000, Shares: XXX, Allocation: 5%
+4. Stock: AAWW, Close Price: $XX.XX, Expected Return: 13.XX%, Amount Invested: $25,000, Shares: XXX, Allocation: 5%
+5. Stock: ABG, Close Price: $XX.XX, Expected Return: 13.XX%, Amount Invested: $25,000, Shares: XXX, Allocation: 5%
+...(Complete summary for the 20 selected stocks with the allocated investments and Close prices).

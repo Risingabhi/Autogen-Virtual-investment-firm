@@ -1,0 +1,8 @@
+Sender: chat_manager
+Recipient: investment Analyst
+Message: find index movement for ^GSPC from 1st jan 2023 till 1st may 2023
+
+Sender: chat_manager
+Recipient: investment Analyst
+Message: one of our clients is looking to invest $100,000 in equity, with stable returns for time horizon of 10 years
+
